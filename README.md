@@ -11,3 +11,5 @@ The purpose of this analysis is to create a summary dataframe that displays data
 - Rural cities had the lowest results, yet they had a higher average fare per ride and diver
 ![alt text](https://github.com/edyi8001/PyBer_Analysis/blob/main/RIDEFAREPNG.png)
 ![alt text](https://github.com/edyi8001/PyBer_Analysis/blob/main/TOTALFAREBYCITYTYPE.png)
+## Summary
+With all the collected data we can conclude that a rural city will demand a higher fare rate due to smaller demographic of customers in this area. Also the distance between destinations and time is most likely longer resulting in highger average fare per ride & driver tcompared to the other city types. Vice versa for Urban cities with theses concluded results. What we could recommend for all cities is to increase fares based on how busy traffic is "rush hour". Also include a increase a fee based on the amount of riders are on per driver. With this Rural and Urban cities will have a little bit more positive similar results, better price of fares, and satisfied customers & drivers.
