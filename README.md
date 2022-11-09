@@ -9,3 +9,4 @@ The purpose of this analysis is to create a summary dataframe that displays data
 - Rural cities had the lowest results in the amount of total rides, drivers, and fares
 - Urban cities had the highest results, they had a lower average fare per ride and driver
 - Rural cities had the lowest results, yet they had a higher average fare per ride and diver
+![alt text](https://github.com/edyi8001/PyBer_Analysis/blob/main/RIDEFAREPNG.png)
